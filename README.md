@@ -1,1 +1,1 @@
-My first readme
+Not inputing the right code can be stressful 
